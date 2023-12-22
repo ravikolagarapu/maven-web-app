@@ -6,7 +6,7 @@
   
   <h1> Learn Here.. Lead Anywhere..!! </h1>
 
-  <p> All the best my dear friend.... mani kumar</p>
+  <p> All the best my dear friend....A mani kumar</p>
 
 </body>
 </html>
