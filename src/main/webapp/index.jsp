@@ -1,9 +1,8 @@
 <html>
 <body>
-<h1><font color='red'> manikanta computer inittutte <font></h1>
+<h1><font color='green'> manikanta computer inittutte <font></h1>
 
-  
-  <h3> Ofc Location : lakkavaram </h3>
+  <h3> Location : lakkavaram </h3>
   
   <h1> Learn Here.. Lead Anywhere..!! </h1>
 
